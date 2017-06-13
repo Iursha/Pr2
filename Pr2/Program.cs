@@ -12,7 +12,7 @@ namespace Pr2
         {
             // Выводит на экран кол-во аргументов командной строки
             System.Console.WriteLine(args.Length);
-            // Keep the console window open in debug mode.
+            // Keep the console window open in debug mode...
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
